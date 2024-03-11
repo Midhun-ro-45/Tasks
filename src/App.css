@@ -1,0 +1,13 @@
+/* .App {
+    width: 100%;
+    min-height: 100vh;
+    border: 1px solid blue;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+    justify-items: center;
+    padding-top: 2rem;
+} */
+.App {
+    display: flex;
+}

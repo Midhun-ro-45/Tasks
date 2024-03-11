@@ -1,0 +1,14 @@
+.productShowContainer {
+    width: 100%;
+    min-height: 100vh;
+    border: 1px solid black;
+    border-radius: 1rem;
+    background-color: rgb(109, 101, 216);
+    padding: 2rem 1rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 1rem;
+    place-items: center;
+    overflow-y: auto;
+}
