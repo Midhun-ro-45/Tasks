@@ -1,0 +1,45 @@
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-top: 2rem;
+}
+
+.heading {
+    margin-bottom: 1rem;
+
+}
+
+.input-field {
+    width: 100%;
+    margin-top: 8px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.submit-btn {
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.submit-btn:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: red;
+    margin: 10px 0rem;
+}
